@@ -2,3 +2,5 @@ https://lookerstudio.google.com/u/0/reporting/34cf7e0e-fcfb-401f-b8f9-8b8fc8d14e
 
 #Ho condensato tutte le richieste in due pagine disponendo le tabelle e le schede punteggi riassuntive nella prima pagina
 mentre nella seconda ci sono i grafici per l'analisi delle vendite e degli ordini con i controlli per categoria, sottocategoria e nome prodotto.
+
+Di seguito il link per gli script con le regex richieste dall'esercizio = https://colab.research.google.com/drive/1TpIYGdsNzqVpPqZq9Ic7yPNmtpbrY4_P?usp=sharing
